@@ -6,3 +6,8 @@ pw = "turingisthebest"
 twitch_followers = 25
 youtube_subs = 12000
 unread_emails = 521032
+
+# Variables that are assigned to FLoats
+checking_balance = 1000.25
+btc_price = 34321.13
+percentage_complete = 82.6
