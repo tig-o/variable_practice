@@ -11,3 +11,9 @@ unread_emails = 521032
 checking_balance = 1000.25
 btc_price = 34321.13
 percentage_complete = 82.6
+
+# Variables that are assigned to Booleans
+employee_paid = true
+user_subscribed = true
+phone_charging = false
+character_item_equipped = true
