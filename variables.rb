@@ -1,6 +1,6 @@
 # Variables that are assigned to Strings
-username = "tigo"
-pw = "turingisthebest"
+username = "student32"
+pw = "turingroxmysox"
 
 # Variables that are assigned to Integers
 twitch_followers = 25
